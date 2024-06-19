@@ -1,2 +1,2 @@
-# Netflix-Clone
+Stream Flix
 This is Netflix clone
